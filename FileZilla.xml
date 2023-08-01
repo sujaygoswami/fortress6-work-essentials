@@ -1,415 +1,411 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<FileZilla3>
-    <Servers>
-        <Server>
-            <Host>test.easymoments.de</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>f0040128</User>
-            <Pass>EHBGXtu6YmkA7rsB</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>biswajit-easymoments-test</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>biswajit-easymoments-test&#x0A;        
-        </Server>
-        <Server>
-            <Host>188.40.3.67</Host>
-            <Port>22</Port>
-            <Protocol>1</Protocol>
-            <Type>0</Type>
-            <User>osmoac</User>
-            <Pass>fc7TxO1cKao1y80V</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>bkk-tags</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>bkk-tags&#x0A;        
-        </Server>
-        <Server>
-            <Host>w01c323d.kasserver.com</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>f015b00e</User>
-            <Pass>fqtEQv2RfjFBAQdxT2p8</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>disserto-dump</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>disserto-dump&#x0A;        
-        </Server>
-        <Server>
-            <Host>p606449.webspaceconfig.de</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>p606449</User>
-            <Pass>0ep3#u:jtacBhq</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>disserto-mittwald</Name>
-            <Comments>/html/typo3/typo3conf/ext/ppam_disserto/Resources/Public</Comments>
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>disserto-mittwald&#x0A;        
-        </Server>
-        <Server>
-            <Host>floridatv-entertainment.de</Host>
-            <Port>22</Port>
-            <Protocol>1</Protocol>
-            <Type>0</Type>
-            <User>vonuebermorgen</User>
-            <Pass>9qs4aOe18GF8r5Pk</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>florida-live</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>florida-live&#x0A;        
-        </Server>
-        <Server>
-            <Host>dummy.goldenerspatz.de</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>f00b5cf3</User>
-            <Pass>4ZkfNNYzfwYk8Dgx</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>gs_dev_server</Name>
-            <Comments>/gs-dummy-online-cms/wp-content/plugins/filmprogramm&#x0A;&#x0A;Servername spatz.kasserver.com&#x0A;Benutzername/Kontoname f00b5cf3&#x0A;Passwort/Kennwort 4ZkfNNYzfwYk8Dgx&#x0A;&#x0A;&#x0A;https://dummy.goldenerspatz.de/wp-admin/&#x0A;htaccess: web/schranke&#x0A;&#x0A;wp-admin&#x0A;&#x0A;banerjee / ZoB66VlULse87M*#LnD!EvA2</Comments>
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>gs_dev_server&#x0A;        
-        </Server>
-        <Server>
-            <Host>spatz.kasserver.com</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>f0157b0c</User>
-            <Pass>9UJpA8abva2CHAAn</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>gs-new-dummy</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>gs-new-dummy&#x0A;        
-        </Server>
-        <Server>
-            <Host>p645654.webspaceconfig.de</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>p645654</User>
-            <Pass>3i,7_jheaNppty</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>gwg-mittwald</Name>
-            <Comments>p645654.webspaceconfig.de&#x0A;p645654&#x0A;3i,7_jheaNppty&#x0A;&#x0A;/html/typo3-composer/packages/gwg_theme/Resources/Public</Comments>
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>gwg-mittwald&#x0A;        
-        </Server>
-        <Server>
-            <Host>p632221.webspaceconfig.de</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>p632221</User>
-            <Pass>15nBc!-yaydeex</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>ht23-mittwald</Name>
-            <Comments>/html/typo3-composer/packages/ht23_theme/Resources/Public/&#x0A;</Comments>
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>ht23-mittwald&#x0A;        
-        </Server>
-        <Server>
-            <Host>typo3-composer.p642761.webspaceconfig.de</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>p642761</User>
-            <Pass>77uOkufdl_r+zh</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>lawyer-mittwald</Name>
-            <Comments>/html/typo3-composer/packages/rasichalla_theme/</Comments>
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>lawyer-mittwald&#x0A;        
-        </Server>
-        <Server>
-            <Host>188.40.3.67</Host>
-            <Port>22</Port>
-            <Protocol>1</Protocol>
-            <Type>0</Type>
-            <User>machhm</User>
-            <Pass>US5dr3w17qO71l1h</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>mach-dich-unkaputtbar</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>mach-dich-unkaputtbar&#x0A;        
-        </Server>
-        <Server>
-            <Host>dedi3326.your-server.de</Host>
-            <Port>222</Port>
-            <Protocol>1</Protocol>
-            <Type>0</Type>
-            <User>sailim</User>
-            <Pass>g92ks10v25Dj74j9</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>sc-playground</Name>
-            <Comments>/usr/www/users/sailim/play_typo3v104&#x0A;&#x0A;ssh: sailim@dedi3326.your-server.de -p222&#x0A;&#x0A;pw: g92ks10v25Dj74j9</Comments>
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>sc-playground&#x0A;        
-        </Server>
-        <Server>
-            <Host>tilohildebrandt.com</Host>
-            <Port>8223</Port>
-            <Protocol>1</Protocol>
-            <Type>0</Type>
-            <User> contao_tilohildebrandt_com</User>
-            <Pass />
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>tilohildebrandt.com</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>tilohildebrandt.com&#x0A;        
-        </Server>
-        <Server>
-            <Host>zydolab.de</Host>
-            <Port>21</Port>
-            <Protocol>0</Protocol>
-            <Type>0</Type>
-            <User>p245104</User>
-            <Pass>VmMCkmq4</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>zydolab</Name>
-            <Comments />
-            <LocalDir />
-            <RemoteDir />
-            <SyncBrowsing>0</SyncBrowsing>zydolab&#x0A;        
-        </Server>
-    </Servers>
-    <Settings>
-        <Setting name="Use Pasv mode">1</Setting>
-        <Setting name="Limit local ports">0</Setting>
-        <Setting name="Limit ports low">6000</Setting>
-        <Setting name="Limit ports high">7000</Setting>
-        <Setting name="External IP mode">0</Setting>
-        <Setting name="External IP" />
-        <Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
-        <Setting name="Last resolved IP" />
-        <Setting name="No external ip on local conn">1</Setting>
-        <Setting name="Pasv reply fallback mode">0</Setting>
-        <Setting name="Timeout">20</Setting>
-        <Setting name="Logging Debug Level">0</Setting>
-        <Setting name="Logging Raw Listing">0</Setting>
-        <Setting name="fzsftp executable" />
-        <Setting name="Allow transfermode fallback">1</Setting>
-        <Setting name="Reconnect count">2</Setting>
-        <Setting name="Reconnect delay">5</Setting>
-        <Setting name="Enable speed limits">0</Setting>
-        <Setting name="Speedlimit inbound">100</Setting>
-        <Setting name="Speedlimit outbound">20</Setting>
-        <Setting name="Speedlimit burst tolerance">0</Setting>
-        <Setting name="View hidden files">0</Setting>
-        <Setting name="Preserve timestamps">0</Setting>
-        <Setting name="Socket recv buffer size (v2)">4194304</Setting>
-        <Setting name="Socket send buffer size (v2)">262144</Setting>
-        <Setting name="FTP Keep-alive commands">0</Setting>
-        <Setting name="FTP Proxy type">0</Setting>
-        <Setting name="FTP Proxy host" />
-        <Setting name="FTP Proxy user" />
-        <Setting name="FTP Proxy password" />
-        <Setting name="FTP Proxy login sequence" />
-        <Setting name="SFTP keyfiles" />
-        <Setting name="Proxy type">0</Setting>
-        <Setting name="Proxy host" />
-        <Setting name="Proxy port">0</Setting>
-        <Setting name="Proxy user" />
-        <Setting name="Proxy password" />
-        <Setting name="Logging file" />
-        <Setting name="Logging filesize limit">10</Setting>
-        <Setting name="Trusted root certificate" />
-        <Setting name="Size format">0</Setting>
-        <Setting name="Size thousands separator">1</Setting>
-        <Setting name="Size decimal places">1</Setting>
-        <Setting name="Number of Transfers">2</Setting>
-        <Setting name="Ascii Binary mode">0</Setting>
-        <Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|php|phtml|pl|po|py|qmail|sh|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
-        <Setting name="Auto Ascii no extension">1</Setting>
-        <Setting name="Auto Ascii dotfiles">1</Setting>
-        <Setting name="Theme">opencrystal/</Setting>
-        <Setting name="Language Code" />
-        <Setting name="Last Server Path" />
-        <Setting name="Concurrent download limit">0</Setting>
-        <Setting name="Concurrent upload limit">0</Setting>
-        <Setting name="Update Check">1</Setting>
-        <Setting name="Update Check Interval">7</Setting>
-        <Setting name="Last automatic update check">2023-08-01 16:38:56</Setting>
-        <Setting name="Update Check New Version" />
-        <Setting name="Update Check Check Beta">0</Setting>
-        <Setting name="Update Check Download Dir" />
-        <Setting name="Show debug menu">0</Setting>
-        <Setting name="File exists action download">0</Setting>
-        <Setting name="File exists action upload">0</Setting>
-        <Setting name="Allow ascii resume">0</Setting>
-        <Setting name="Greeting version">3.7.4.1</Setting>
-        <Setting name="Onetime Dialogs" />
-        <Setting name="Show Tree Local">1</Setting>
-        <Setting name="Show Tree Remote">1</Setting>
-        <Setting name="File Pane Layout">0</Setting>
-        <Setting name="File Pane Swap">0</Setting>
-        <Setting name="Last local directory">C:\Users\SujayWindows\Desktop\my-desk-works\biswajit-repo\easy-moments\changed\</Setting>
-        <Setting name="Filelist directory sort">0</Setting>
-        <Setting name="Queue successful autoclear">0</Setting>
-        <Setting name="Queue column widths">180 60 180 80 60 150</Setting>
-        <Setting name="Local filelist colwidths">120 80 100 120</Setting>
-        <Setting name="Remote filelist colwidths">235 214 80 100 80 80</Setting>
-        <Setting name="Window position and size">1 510 145 884 641 </Setting>
-        <Setting name="Splitter positions (v2)">97 -131 500000000 148 148 500000000</Setting>
-        <Setting name="Local filelist sortorder">0 0</Setting>
-        <Setting name="Remote filelist sortorder">0 0</Setting>
-        <Setting name="Time Format" />
-        <Setting name="Date Format" />
-        <Setting name="Show message log">1</Setting>
-        <Setting name="Show queue">1</Setting>
-        <Setting name="Default editor" />
-        <Setting name="Always use default editor">0</Setting>
-        <Setting name="Inherit system associations">1</Setting>
-        <Setting name="Custom file associations" />
-        <Setting name="Comparison mode">1</Setting>
-        <Setting name="Comparison threshold">1</Setting>
-        <Setting name="Site Manager position">0 541 301 822 400 </Setting>
-        <Setting name="Theme icon size" />
-        <Setting name="Timestamp in message log">0</Setting>
-        <Setting name="Sitemanager last selected">0/biswajit-easymoments-test</Setting>
-        <Setting name="Local filelist shown columns">1111</Setting>
-        <Setting name="Remote filelist shown columns">111111</Setting>
-        <Setting name="Local filelist column order">0,1,2,3</Setting>
-        <Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
-        <Setting name="Filelist status bar">1</Setting>
-        <Setting name="Filter toggle state">0</Setting>
-        <Setting name="Show quickconnect bar">1</Setting>
-        <Setting name="Messagelog position">0</Setting>
-        <Setting name="Last connected site">0/sc-playground</Setting>
-        <Setting name="File doubleclock action">0</Setting>
-        <Setting name="Dir doubleclock action">0</Setting>
-        <Setting name="Minimize to tray">0</Setting>
-        <Setting name="Search column widths" />
-        <Setting name="Search column shown" />
-        <Setting name="Search column order" />
-        <Setting name="Search window size" />
-        <Setting name="Comparison hide identical">0</Setting>
-        <Setting name="Search sort order" />
-        <Setting name="Edit track local">1</Setting>
-        <Setting name="Prevent idle sleep">1</Setting>
-        <Setting name="Filteredit window size" />
-        <Setting name="Enable invalid char filter">1</Setting>
-        <Setting name="Invalid char replace">_</Setting>
-        <Setting name="Already connected choice">0</Setting>
-        <Setting name="Edit status dialog size" />
-        <Setting name="Display current speed">0</Setting>
-        <Setting name="Toolbar hidden">0</Setting>
-        <Setting name="Strip VMS revisions">0</Setting>
-        <Setting name="Show Site Manager on startup">0</Setting>
-        <Setting name="Prompt password change">1</Setting>
-        <Setting name="Config Location">C:\Users\SujayWindows\AppData\Roaming\FileZilla</Setting>
-        <Setting name="Kiosk mode">0</Setting>
-        <Setting name="Disable update check">0</Setting>
-        <LastServer>
-            <Host>dedi3326.your-server.de</Host>
-            <Port>222</Port>
-            <Protocol>1</Protocol>
-            <Type>0</Type>
-            <User>sailim</User>
-            <Pass>g92ks10v25Dj74j9</Pass>
-            <Logontype>1</Logontype>
-            <TimezoneOffset>0</TimezoneOffset>
-            <PasvMode>MODE_DEFAULT</PasvMode>
-            <MaximumMultipleConnections>0</MaximumMultipleConnections>
-            <EncodingType>Auto</EncodingType>
-            <BypassProxy>0</BypassProxy>
-            <Name>sc-playground</Name>
-        </LastServer>
-    </Settings>
-    <Queue />
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.65.0" platform="mac">
+	<Servers>
+		<Server>
+			<Host>test.easymoments.de</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>f0040128</User>
+			<Pass encoding="base64">RUhCR1h0dTZZbWtBN3JzQg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>biswajit-easymoments-test</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>188.40.3.67</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>osmoac</User>
+			<Pass encoding="base64">ZmM3VHhPMWNLYW8xeTgwVg==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>bkk-tags</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>w01c323d.kasserver.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>f015b00e</User>
+			<Pass encoding="base64">ZnF0RVF2MlJmakZCQVFkeFQycDg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>disserto-dump</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>p606449.webspaceconfig.de</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>p606449</User>
+			<Pass encoding="base64">MGVwMyN1Omp0YWNCaHE=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>disserto-mittwald</Name>
+			<Comments>/html/typo3/typo3conf/ext/ppam_disserto/Resources/Public</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>floridatv-entertainment.de</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>vonuebermorgen</User>
+			<Pass encoding="base64">OXFzNGFPZTE4R0Y4cjVQaw==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>florida-live</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>spatz.kasserver.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>f0157b0c</User>
+			<Pass encoding="base64">OVVKcEE4YWJ2YTJDSEFBbg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gs-new-dummy</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>dummy.goldenerspatz.de</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>f00b5cf3</User>
+			<Pass encoding="base64">NFprZk5OWXpmd1lrOERneA==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gs_dev_server</Name>
+			<Comments>/gs-dummy-online-cms/wp-content/plugins/filmprogramm
+
+Servername spatz.kasserver.com
+Benutzername/Kontoname f00b5cf3
+Passwort/Kennwort 4ZkfNNYzfwYk8Dgx
+
+
+https://dummy.goldenerspatz.de/wp-admin/
+htaccess: web/schranke
+
+wp-admin
+
+banerjee / ZoB66VlULse87M*#LnD!EvA2</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>p645654.webspaceconfig.de</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>p645654</User>
+			<Pass encoding="base64">M2ksN19qaGVhTnBwdHk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>gwg-mittwald</Name>
+			<Comments>p645654.webspaceconfig.de
+p645654
+3i,7_jheaNppty
+
+/html/typo3-composer/packages/gwg_theme/Resources/Public</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>p632221.webspaceconfig.de</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>p632221</User>
+			<Pass encoding="base64">MTVuQmMhLXlheWRlZXg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ht23-mittwald</Name>
+			<Comments>/html/typo3-composer/packages/ht23_theme/Resources/Public/
+</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>typo3-composer.p642761.webspaceconfig.de</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>p642761</User>
+			<Pass encoding="base64">Nzd1T2t1ZmRsX3Iremg=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>lawyer-mittwald</Name>
+			<Comments>/html/typo3-composer/packages/rasichalla_theme/</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>188.40.3.67</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>machhm</User>
+			<Pass encoding="base64">VVM1ZHIzdzE3cU83MWwxaA==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mach-dich-unkaputtbar</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>dedi3326.your-server.de</Host>
+			<Port>222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>sailim</User>
+			<Pass encoding="base64">Zzkya3MxMHYyNURqNzRqOQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>sc-playground</Name>
+			<Comments>/usr/www/users/sailim/play_typo3v104
+
+ssh: sailim@dedi3326.your-server.de -p222
+
+pw: g92ks10v25Dj74j9</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>p599086.mittwaldserver.info</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>p599086</User>
+			<Pass encoding="base64">ZStvM29KbWwjdjF0emM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>sf-demo</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>tilohildebrandt.com</Host>
+			<Port>8223</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User> contao_tilohildebrandt_com</User>
+			<Pass encoding="base64" />
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>tilohildebrandt.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>zydolab.de</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>p245104</User>
+			<Pass encoding="base64">Vm1NQ2ttcTQ=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>zydolab</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Timeout">20</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">0</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" platform="mac" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" platform="mac" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="TCP Keepalive Interval">15</Setting>
+		<Setting name="Cache TTL">600</Setting>
+		<Setting name="Minimum TLS Version">2</Setting>
+		<Setting name="Directory listing item limit">10000000</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Master password encryptor" />
+		<Setting name="Trust system trust store">0</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Cache directory" platform="mac" />
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">0</Setting>
+		<Setting name="File exists action upload">0</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Onetime Dialogs" />
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">1</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Time Format" />
+		<Setting name="Date Format" />
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Default editor" platform="mac" />
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="File associations (v2)" platform="mac" />
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Icon theme">default</Setting>
+		<Setting name="Icon scale">125</Setting>
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="File doubleclick action">0</Setting>
+		<Setting name="Dir doubleclick action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Search window size" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Already connected choice">0</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Startup action">0</Setting>
+		<Setting name="Persistent Choices">0</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Drag and Drop disabled">0</Setting>
+		<Setting name="Disable update footer">0</Setting>
+		<Setting name="Highest shown overlay id">0</Setting>
+		<Setting name="Last automatic update version">3.65.0</Setting>
+		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Speedlimit inbound">100</Setting>
+		<Setting name="Speedlimit outbound">20</Setting>
+		<Setting name="Auto Ascii files">am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsi|pas|patch|php|phtml|pl|po|py|qmail|sh|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Prompt password save">0</Setting>
+		<Setting name="Tab data" sensitive="1">
+			<Tabs>
+				<Tab connected="1" selected="1">
+					<Host>p599086.mittwaldserver.info</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>p599086</User>
+					<Pass encoding="base64">ZStvM29KbWwjdjF0emM=</Pass>
+					<Logontype>1</Logontype>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>sf-demo</Name>
+					<Site>0/sf-demo</Site>
+					<RemotePath>1 0 4 html 5 typo3 9 typo3conf 3 ext 9 schulfoto 9 Resources 7 Private 9 Templates 12 Schoolfilter</RemotePath>
+					<LocalPath>/Users/sujaygoswami/Documents/works/fortress6-sf/task 31.07.2023/changed/</LocalPath>
+				</Tab>
+			</Tabs>
+		</Setting>
+		<Setting name="Last automatic update check">2023-08-01 16:38:56</Setting>
+		<Setting name="Update Check New Version" platform="mac" />
+		<Setting name="Greeting version">3.7.4.1</Setting>
+		<Setting name="Local filelist colwidths">120 80 100 120</Setting>
+		<Setting name="Remote filelist colwidths">235 214 80 100 80 80</Setting>
+		<Setting name="Window position and size">1 510 145 884 641 </Setting>
+		<Setting name="Splitter positions (v2)">97 -131 500000000 148 148 500000000</Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Site Manager position">0 432 273 1056 439 </Setting>
+		<Setting name="Sitemanager last selected" />
+	</Settings>
+	<Queue />
 </FileZilla3>
