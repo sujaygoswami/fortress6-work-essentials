@@ -2,3 +2,7 @@ official outlook
 ===============
 u: sujay@bytebuilders.de
 p: ASD_official@bytblds04
+
+Bit bucket username and password
+sujaybytebuilders
+ASD_official@bytblds04
